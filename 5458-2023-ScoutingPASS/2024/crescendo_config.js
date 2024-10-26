@@ -17,7 +17,7 @@ var config_data = `
       "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024caav",
+      "defaultValue": "2024cacc",
       "required": "true"
     },
    
@@ -225,7 +225,8 @@ var config_data = `
     "code": "co",
     "type": "text",
     "size": 15,
-    "maxSize": 55
+    "maxSize": 55,
+    "defaultValue": "---"
   }
 ]
 }`;
